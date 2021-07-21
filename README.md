@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @naufalnuha
+- 👀 I’m interested in Javascript, PHP
+- 🌱 I’m currently learning Vue JS, PHP CodeIgniter, Laravel, Node JS
+- 📫 contact me by sending an email to alfian.nuha@gmail.com or chat via telegram at https://t.me/aa_nuha
